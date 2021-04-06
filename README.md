@@ -11,7 +11,8 @@ https://competent-panini-4bd100.netlify.app/
 Reactのチュートリアルのために作成したプロジェクトです。[こちら](https://zenn.dev/likr/articles/6be53ca64f29aa035f07)を参考にしました。
 
 [Dog API](https://dog.ceo/dog-api/)から犬の画像のURL一覧を取得し、クライアントで表示します。
-デフォルトは柴犬を表示するが、秋田犬も選択可能です。
+
+デフォルトでは柴犬を表示しますが、プルダウンメニューから秋田犬も選択可能です。
 
 ## 利用した技術の代表
 
